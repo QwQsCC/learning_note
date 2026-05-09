@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f520acc1ff9608b",
+        "id": "e26f8ea8ec4be513",
         "type": "tabs",
         "children": [
           {
-            "id": "d635dddc07a4de7c",
+            "id": "fff23c9081faccbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d635dddc07a4de7c",
+  "active": "fff23c9081faccbb",
   "lastOpenFiles": [
     "math/Index.md",
     "README.md",
