@@ -22,19 +22,43 @@
             }
           },
           {
-            "id": "421a6fce0c72fbe6",
+            "id": "3b925aed5c9778f6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "robot/Loco-Manipulation.excalidraw.md"
+                "file": "robot/Whole-Body_Control.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Loco-Manipulation.excalidraw"
+              "title": "Whole-Body_Control.excalidraw"
+            }
+          },
+          {
+            "id": "2ac33d3f8cd10ccc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "robot/Whole-Body_Control.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Whole-Body_Control.excalidraw"
+            }
+          },
+          {
+            "id": "a7f377229a863bd0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "robot/Whole-Body_Control.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Whole-Body_Control.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "robot/Whole-Body_Control.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,6 +212,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "621565da13710a2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw 侧边面板"
             }
           }
         ],
@@ -210,13 +244,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "421a6fce0c72fbe6",
+  "active": "2ac33d3f8cd10ccc",
   "lastOpenFiles": [
-    "humanoid-locomotion-timeline.svg",
-    "robot/Index.md",
     "robot/Loco-Manipulation.excalidraw.md",
-    "Excalidraw",
+    "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
+    "robot/Whole-Body_Control.excalidraw.md",
+    "robot/Excalidraw",
+    "robot/Index.md",
     "README.md",
+    "Excalidraw/Drawing 2026-10-11 13.21.09.excalidraw.md",
+    "humanoid-locomotion-timeline.svg",
     "math/Index.md",
     "ML/Index.md",
     "ML",

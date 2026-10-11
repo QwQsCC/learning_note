@@ -1,3 +1,4 @@
 # Loco-Manipulation
 
-[Loco-Manipulation Task](./Loco-Manipulation.excalidraw)
+[Loco-Manipulation Task](robot/Loco-Manipulation.excalidraw)
+[Whole-Body Control](robot/Whole-Body_Control.excalidraw)
