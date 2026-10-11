@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "robot/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "421a6fce0c72fbe6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "robot/Loco-Manipulation.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Loco-Manipulation.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,9 +210,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c8bd1b4c5abe6f75",
+  "active": "421a6fce0c72fbe6",
   "lastOpenFiles": [
+    "humanoid-locomotion-timeline.svg",
     "robot/Index.md",
+    "robot/Loco-Manipulation.excalidraw.md",
+    "Excalidraw",
     "README.md",
     "math/Index.md",
     "ML/Index.md",
