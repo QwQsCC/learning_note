@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -195,11 +197,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fff23c9081faccbb",
+  "active": "c8bd1b4c5abe6f75",
   "lastOpenFiles": [
+    "robot/Index.md",
     "README.md",
     "math/Index.md",
-    "robot/Index.md",
     "ML/Index.md",
     "ML",
     "robot",
