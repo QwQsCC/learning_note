@@ -27,38 +27,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "robot/Whole-Body_Control.excalidraw.md"
+                "file": "robot/Loco-Manipulation_Develop.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Whole-Body_Control.excalidraw"
-            }
-          },
-          {
-            "id": "2ac33d3f8cd10ccc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "robot/Whole-Body_Control.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Whole-Body_Control.excalidraw"
-            }
-          },
-          {
-            "id": "a7f377229a863bd0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "robot/Whole-Body_Control.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Whole-Body_Control.excalidraw"
+              "title": "Loco-Manipulation_Develop.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,11 +220,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2ac33d3f8cd10ccc",
+  "active": "3b925aed5c9778f6",
   "lastOpenFiles": [
-    "robot/Loco-Manipulation.excalidraw.md",
     "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
     "robot/Whole-Body_Control.excalidraw.md",
+    "robot/Loco-Manipulation.excalidraw.md",
+    "robot/Loco-Manipulation_Develop.excalidraw.md",
+    "Excalidraw",
     "robot/Excalidraw",
     "robot/Index.md",
     "README.md",
