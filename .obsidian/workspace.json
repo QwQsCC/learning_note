@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "robot/Loco-Manipulation_Develop.excalidraw.md"
+                "file": "robot/Loco-Manipulation_Data_Pipline.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Loco-Manipulation_Develop.excalidraw"
+              "title": "Loco-Manipulation_Data_Pipline.excalidraw"
             }
           }
         ],
@@ -222,13 +222,16 @@
   },
   "active": "3b925aed5c9778f6",
   "lastOpenFiles": [
+    "robot/Index.md",
     "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
-    "robot/Whole-Body_Control.excalidraw.md",
+    "asset/pico_4_ultra.png",
+    "20khrs.mp4",
     "robot/Loco-Manipulation.excalidraw.md",
+    "robot/Whole-Body_Control.excalidraw.md",
+    "asset",
     "robot/Loco-Manipulation_Develop.excalidraw.md",
     "Excalidraw",
     "robot/Excalidraw",
-    "robot/Index.md",
     "README.md",
     "Excalidraw/Drawing 2026-10-11 13.21.09.excalidraw.md",
     "humanoid-locomotion-timeline.svg",
