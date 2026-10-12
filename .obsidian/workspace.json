@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "robot/Loco-Manipulation_Data_Pipline.excalidraw.md"
+                "file": "robot/Whole-Body_Control.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Loco-Manipulation_Data_Pipline.excalidraw"
+              "title": "Whole-Body_Control.excalidraw"
             }
           }
         ],
@@ -222,14 +222,14 @@
   },
   "active": "3b925aed5c9778f6",
   "lastOpenFiles": [
-    "robot/Index.md",
+    "robot/Loco-Manipulation.excalidraw.md",
     "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
+    "robot/Loco-Manipulation_Develop.excalidraw.md",
+    "robot/Whole-Body_Control.excalidraw.md",
+    "robot/Index.md",
     "asset/pico_4_ultra.png",
     "20khrs.mp4",
-    "robot/Loco-Manipulation.excalidraw.md",
-    "robot/Whole-Body_Control.excalidraw.md",
     "asset",
-    "robot/Loco-Manipulation_Develop.excalidraw.md",
     "Excalidraw",
     "robot/Excalidraw",
     "README.md",
