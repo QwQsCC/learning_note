@@ -11,18 +11,40 @@
             "id": "fff23c9081faccbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "robot/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "robot/Loco-Manipulation_Develop.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "excalidraw-icon",
+              "title": "Loco-Manipulation_Develop.excalidraw"
             }
           },
           {
-            "id": "3b925aed5c9778f6",
+            "id": "e90b38138f7c93e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "robot/Loco-Manipulation_Data_Pipline.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Loco-Manipulation_Data_Pipline.excalidraw"
+            }
+          },
+          {
+            "id": "825996cd3a5beb0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "robot/Loco-Manipulation.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Loco-Manipulation.excalidraw"
+            }
+          },
+          {
+            "id": "6c67315ecd2079de",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -33,8 +55,7 @@
               "title": "Whole-Body_Control.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,12 +241,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3b925aed5c9778f6",
+  "active": "fff23c9081faccbb",
   "lastOpenFiles": [
     "robot/Loco-Manipulation.excalidraw.md",
+    "robot/Whole-Body_Control.excalidraw.md",
     "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
     "robot/Loco-Manipulation_Develop.excalidraw.md",
-    "robot/Whole-Body_Control.excalidraw.md",
     "robot/Index.md",
     "asset/pico_4_ultra.png",
     "20khrs.mp4",
