@@ -44,15 +44,15 @@
             }
           },
           {
-            "id": "34bbdcc0369b057c",
+            "id": "93bb1c810b0968d1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "robot/Whole-Body_Control.excalidraw.md"
+                "file": "robot/Retarget.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Whole-Body_Control.excalidraw"
+              "title": "Retarget.excalidraw"
             }
           }
         ],
@@ -232,17 +232,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34bbdcc0369b057c",
+  "active": "93bb1c810b0968d1",
   "lastOpenFiles": [
-    "robot/Loco-Manipulation.excalidraw.md",
-    "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
-    "robot/Loco-Manipulation_Develop.excalidraw.md",
     "robot/Whole-Body_Control.excalidraw.md",
+    "robot/Loco-Manipulation_Develop.excalidraw.md",
+    "robot/Loco-Manipulation_Data_Pipline.excalidraw.md",
+    "robot/Retarget.excalidraw.md",
+    "robot/Loco-Manipulation.excalidraw.md",
+    "新建文本文档.txt",
+    "新建文件夹",
+    "Excalidraw",
     "robot/Index.md",
     "asset/pico_4_ultra.png",
     "20khrs.mp4",
     "asset",
-    "Excalidraw",
     "robot/Excalidraw",
     "README.md",
     "Excalidraw/Drawing 2026-10-11 13.21.09.excalidraw.md",
